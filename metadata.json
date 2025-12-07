@@ -1,0 +1,5 @@
+{
+  "name": "Ticari ve Finansal Yönetim Sistemi",
+  "description": "KOBİ'ler için teklif, sipariş, stok ve fatura yönetim sistemi. FIFO maliyet analizi ve AI destekli finansal içgörüler içerir.",
+  "requestFramePermissions": []
+}
